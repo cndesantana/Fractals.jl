@@ -1,6 +1,6 @@
 # version 0.1
 
-module Fractal 
+module Fractals 
 
 #Write the functions here
 
